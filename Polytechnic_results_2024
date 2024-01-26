@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Full Name - Diploma Results 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff;
+            color: #333;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 20px;
+            background-color: #4285f4;
+            color: #fff;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #4285f4;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Sbtet polytechnic results</h1>
+        <p>Diploma Results 2024</p>
+        <p>The details below include the results of pin number 22221-EC-016</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>the polytechnic results of the exams
+        have been held last year.Their respective results have been released.Click here to check.</p>
+    </section>
+
+    <section>
+        <h2>Results</h2>
+        <p>click here to view your diploma results.</p>
+        <p>For the latest updates, visit <a href="/Polytechnic/results/2024/diploma" target="_blank">Polytechnic Results 2024</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Government of andhra pradesh. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+```
+
